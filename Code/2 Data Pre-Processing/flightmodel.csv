@@ -1,0 +1,1504 @@
+﻿flight_iata,Aircraft_Model,Aircraft_isTurboProp,Aircraft_isWidebody
+MH194,Airbus A330-300,False,True
+AK6440,Airbus A320,False,False
+MH196,Airbus A330-300,False,True
+TR469,Airbus A321neo,False,False
+SQ297,Airbus A350-900,False,True
+SQ34,Airbus A350-900,False,True
+UL309,Airbus A330-300,False,True
+AK5646,Airbus A320,False,False
+AI343,Airbus A320neo,False,False
+OD805,Boeing 737MAX 8 Passenger,False,False
+QF36,Airbus A330-200,False,True
+SQ446,Boeing 787-10,False,True
+AK5228,Airbus A320,False,False
+AK6014,Airbus A320,False,False
+AK6322,None,None,None
+AK896,Airbus A320,False,False
+D7218,Airbus A330-300,False,True
+MH2606,Boeing 737-800 (winglets) Passenger/BBJ2,False,False
+MH616,Boeing 737-800 (winglets) Passenger/BBJ2,False,False
+TR466,Airbus A320,False,False
+AK534,Airbus A320,False,False
+MH127,Airbus A330-200,False,True
+MH607,Boeing 737-800 (winglets) Passenger/BBJ2,False,False
+OD215,Boeing 737-800 (winglets) Passenger/BBJ2,False,False
+5J806,Airbus A321neo,False,False
+AK1772,Airbus A320,False,False
+EY473,Boeing 787-9,False,True
+QZ557,None,None,None
+3K551,None,None,None
+QF52,Airbus A330-200,False,True
+AK888,Airbus A320,False,False
+D7182,Airbus A330-300,False,True
+QF72,Airbus A330-200,False,True
+TR428,Airbus A320,False,False
+QF2,Airbus A380-800 Passenger,False,True
+AK719,Airbus A320,False,False
+3K513,Airbus A320,False,False
+GA837,Airbus A330-300,False,True
+EY411,Boeing 787-10,False,True
+MH1162,Boeing 737-800 (winglets) Passenger/BBJ2,False,False
+MH156,Airbus A330-200,False,True
+MH847,Boeing 737-800 Passenger,False,False
+SQ994,Boeing 737MAX 8 Passenger,False,False
+OD155,Boeing 737MAX 8 Passenger,False,False
+QZ209,Airbus A320,False,False
+ID7158,Boeing 737-800 (winglets) Passenger/BBJ2,False,False
+SQ442,Boeing 737MAX 8 Passenger,False,False
+TG317,Boeing 777-200 / 200ER,False,True
+WE211,Airbus A320,False,False
+MH1450,Boeing 737-800 (winglets) Passenger/BBJ2,False,False
+MH190,Airbus A330-300,False,True
+PG171,ATR 72,True,False
+TG341,Boeing 787-8,False,True
+WE136,Airbus A320 (sharklets),False,False
+AK72,Airbus A320,False,False
+LQ771,None,None,None
+MH843,Boeing 737-800 Passenger,False,False
+AK716,Airbus A320,False,False
+SQ424,Airbus A380-800 Passenger,False,True
+PR737,Airbus A321,False,False
+TG349,Boeing 787-8,False,True
+SQ121,Airbus A350-900,False,True
+AK524,Airbus A320,False,False
+NZ283,Boeing 777-300ER,False,True
+SQ215,Boeing 787-10,False,True
+SQ36,Airbus A350-900,False,True
+SQ504,Airbus A350-900,False,True
+CI840,Boeing 737-800 (winglets) Passenger/BBJ2,False,False
+AK5118,Airbus A320,False,False
+SQ126,Airbus A350-900,False,True
+TR611,Boeing 787-9,False,True
+WE267,Airbus A320 (sharklets),False,False
+VZ214,Airbus A321,False,False
+WE574,Airbus A320 (sharklets),False,False
+SQ740,Boeing 737-800 (winglets) Passenger/BBJ2,False,False
+TR278,Airbus A320,False,False
+VN654,Airbus A321,False,False
+WE249,Airbus A320 (sharklets),False,False
+WE584,Airbus A320 (sharklets),False,False
+MH2528,Boeing 737-800 (winglets) Passenger/BBJ2,False,False
+QZ323,Airbus A320,False,False
+AK1724,Airbus A320,False,False
+TR652,Airbus A320,False,False
+TG465,Airbus A350-900,False,True
+AK374,None,None,None
+H9891,Airbus A320,False,False
+MH1276,Boeing 737-800 (winglets) Passenger/BBJ2,False,False
+FD309,Airbus A320,False,False
+TG408,None,None,None
+WE221,None,None,None
+AK5874,Airbus A320,False,False
+AK6130,None,None,None
+TR430,Airbus A320,False,False
+AK826,Airbus A320,False,False
+MH725,None,None,None
+MH780,Boeing 737-800 (winglets) Passenger/BBJ2,False,False
+OD182,Boeing 737MAX 8 Passenger,False,False
+SQ946,Boeing 787-10,False,True
+SQ711,Airbus A350-900,False,True
+TG503,Boeing 777-200 / 200ER,False,True
+OD318,Boeing 737MAX 8 Passenger,False,False
+CX716,Airbus A350-900,False,True
+TR540,Airbus A321neo,False,False
+PG173,None,None,None
+QF24,Airbus A330-300,False,True
+VN626,Airbus A321,False,False
+VZ122,Airbus A320,False,False
+VZ134,Airbus A320 (sharklets),False,False
+WE28,Airbus A320 (sharklets),False,False
+OD157,Boeing 737MAX 8 Passenger,False,False
+WE8,Airbus A320 (sharklets),False,False
+CX724,Airbus A330-300,False,True
+QZ507,Airbus A320,False,False
+CI836,Airbus A330-300,False,True
+MH1057,Boeing 737-800 (winglets) Passenger/BBJ2,False,False
+VZ627,None,None,None
+KL835,Boeing 777-300ER,False,True
+CX708,Airbus A350-900,False,True
+QR843,Boeing 787-8,False,True
+AK502,Airbus A320,False,False
+AK1792,Airbus A320,False,False
+PG169,Airbus A319,False,False
+PG219,Airbus A319,False,False
+PG263,Airbus A319,False,False
+VZ326,Airbus A320,False,False
+WE217,Airbus A320,False,False
+WE556,Airbus A320 (sharklets),False,False
+AK6314,Airbus A320,False,False
+BS316,Boeing 737-800 (winglets) Passenger/BBJ2,False,False
+SQ186,Airbus A350-900,False,True
+TR388,Airbus A320neo,False,False
+TR616,Airbus A321neo,False,False
+PG277,Airbus A319,False,False
+PG907,ATR 72,True,False
+VZ202,Airbus A320,False,False
+MH608,Boeing 737-800 (winglets) Passenger/BBJ2,False,False
+AK5751,Airbus A320,False,False
+VZ972,None,None,None
+WE564,Airbus A320 (sharklets),False,False
+SQ964,Boeing 777-300ER,False,True
+TR468,Airbus A321neo,False,False
+AK6138,Airbus A320,False,False
+MH613,Boeing 737-800 (winglets) Passenger/BBJ2,False,False
+599999999999999953564446364080413519103978894502589415958294694938785377250495139151872,Airbus A321neo,False,False
+PG935,Airbus A320,False,False
+TR252,Airbus A320,False,False
+AK892,Airbus A320,False,False
+MH2584,Boeing 737-800 (winglets) Passenger/BBJ2,False,False
+WY852,None,None,None
+FD354,Airbus A320,False,False
+PG968,Airbus A319,False,False
+SQ714,Boeing 787-10,False,True
+TR266,Airbus A320,False,False
+AK393,Airbus A320,False,False
+BR68,Boeing 777-300ER,False,True
+FD419,Airbus A320,False,False
+ID7150,Boeing 737-800 (winglets) Passenger/BBJ2,False,False
+KL809,None,None,None
+MH783,Boeing 737-800 (winglets) Passenger/BBJ2,False,False
+VZ352,Airbus A320,False,False
+WE303,Airbus A320 (sharklets),False,False
+OD808,Boeing 737MAX 8 Passenger,False,False
+AK5244,Airbus A320,False,False
+OD171,Boeing 737MAX 8 Passenger,False,False
+CA716,Airbus A320,False,False
+VJ814,Airbus A321,False,False
+SQ115,Boeing 737-800 (winglets) Passenger/BBJ2,False,False
+5J808,None,None,None
+BS310,None,None,None
+AK717,Airbus A320,False,False
+OD177,Boeing 737MAX 8 Passenger,False,False
+TR492,Airbus A320,False,False
+MH1396,Boeing 737-800 (winglets) Passenger/BBJ2,False,False
+MH1446,Boeing 737-800 (winglets) Passenger/BBJ2,False,False
+BG389,Boeing 787-8,False,True
+TG417,Boeing 777-200 / 200ER,False,True
+SQ122,Airbus A350-900,False,True
+AK429,Airbus A320,False,False
+SV835,Boeing 787-10,False,True
+BL6822,Airbus A320,False,False
+3K765,Airbus A320,False,False
+AK714,Airbus A320,False,False
+EY431,Boeing 787-9,False,True
+TG409,Airbus A350-900,False,True
+FD4106,Airbus A320,False,False
+GF166,Boeing 787-9,False,True
+S76332,Airbus A320neo,False,False
+SQ406,Airbus A380-800 Passenger,False,True
+SQ928,Boeing 737MAX 8 Passenger,False,False
+AK421,Airbus A320,False,False
+AK6226,Airbus A320,False,False
+AK6438,Airbus A320,False,False
+MH723,Boeing 737-800 (winglets) Passenger/BBJ2,False,False
+PG207,ATR 72,True,False
+SQ736,Boeing 737-800 (winglets) Passenger/BBJ2,False,False
+SQ944,Boeing 787-10,False,True
+AK378,Airbus A320,False,False
+AK5194,Airbus A320,False,False
+SQ158,Boeing 737MAX 8 Passenger,False,False
+JX726,Airbus A321neo,False,False
+MH2718,Boeing 737-800 (winglets) Passenger/BBJ2,False,False
+OD207,None,None,None
+TR302,Airbus A320,False,False
+AK6042,Airbus A320,False,False
+FD8048,None,None,None
+PG165,Airbus A319,False,False
+SU815,None,None,None
+AK405,Airbus A320,False,False
+KL819,None,None,None
+VZ108,Airbus A320,False,False
+AK1410,Airbus A320,False,False
+BR216,Boeing 777-300ER,False,True
+TR610,Boeing 787-9,False,True
+OD522,Boeing 737MAX 8 Passenger,False,False
+TG414,Boeing 777-200 / 200ER,False,True
+AK5212,Airbus A320,False,False
+MH864,Boeing 737-800 (winglets) Passenger/BBJ2,False,False
+PG703,None,None,None
+VN614,Airbus A321,False,False
+3U3920,Airbus A321neo,False,False
+BG585,Boeing 737-800 (winglets) Passenger/BBJ2,False,False
+QZ8298,Airbus A320,False,False
+BR76,Boeing 777-300ER,False,True
+PG163,None,None,None
+VZ962,Airbus A320,False,False
+VZ212,Airbus A320,False,False
+CZ350,Boeing 787-9,False,True
+VN674,Airbus A321neo,False,False
+FD377,Airbus A320,False,False
+SQ138,Boeing 737MAX 8 Passenger,False,False
+SQ709,Boeing 787-10,False,True
+MH2640,Boeing 737-800 (winglets) Passenger/BBJ2,False,False
+QG503,Airbus A320,False,False
+3K245,Airbus A320,False,False
+HO1606,Airbus A321neo,False,False
+TR486,Airbus A320,False,False
+5999999999999999941631008966280967758674771065212437004288,None,None,None
+VZ306,Airbus A320,False,False
+ID7295,Boeing 737-800 (winglets) Passenger/BBJ2,False,False
+TR386,Airbus A320,False,False
+PG213,ATR 72,True,False
+MH1336,Boeing 737-800 (winglets) Passenger/BBJ2,False,False
+MH624,Boeing 737-800 (winglets) Passenger/BBJ2,False,False
+SQ712,Airbus A350-900,False,True
+BL6800,Airbus A320,False,False
+AK348,Airbus A320,False,False
+MH158,Airbus A330-200,False,True
+MH605,Boeing 737-800 (winglets) Passenger/BBJ2,False,False
+GA833,Boeing 737-800 (winglets) Passenger/BBJ2,False,False
+TR288,None,None,None
+TR508,Boeing 787-8,False,True
+SG90,None,None,None
+VZ224,Airbus A320,False,False
+MH794,Boeing 737-800 (winglets) Passenger/BBJ2,False,False
+MH853,Boeing 737-800 (winglets) Passenger/BBJ2,False,False
+KL803,None,None,None
+AK5112,Airbus A320,False,False
+TR16,Boeing 787-9,False,True
+HX776,Airbus A330-300,False,True
+VZ564,Airbus A320,False,False
+SQ116,Boeing 737-800 (winglets) Passenger/BBJ2,False,False
+SQ194,Airbus A350-900,False,True
+SQ494,Airbus A350-900,False,True
+UK122,Airbus A321,False,False
+VJ902,Airbus A321neo,False,False
+VZ342,Airbus A321,False,False
+WE164,Airbus A320,False,False
+WE283,Airbus A320,False,False
+AK6126,Airbus A320,False,False
+OD807,Boeing 737MAX 8 Passenger,False,False
+FD356,Airbus A320,False,False
+PG307,ATR 72,True,False
+MH2594,Boeing 737-800 (winglets) Passenger/BBJ2,False,False
+MH36,Airbus A350-900,False,True
+TR390,Airbus A321neo,False,False
+TR424,Airbus A320,False,False
+VJ916,Airbus A321,False,False
+FD4112,Airbus A320,False,False
+TR605,Airbus A321neo,False,False
+AK715,Airbus A320,False,False
+3K203,Airbus A320,False,False
+AK712,Airbus A320,False,False
+8M334,Airbus A320,False,False
+JX742,Airbus A330-900neo,False,True
+TG638,Boeing 777-300ER,False,True
+TG660,Airbus A330-300,False,True
+UK124,Airbus A320,False,False
+VU136,Airbus A321,False,False
+MH782,Boeing 737-800 (winglets) Passenger/BBJ2,False,False
+JX732,Airbus A330-900neo,False,True
+MH2634,Boeing 737-800 (winglets) Passenger/BBJ2,False,False
+3K686,Airbus A320,False,False
+MH758,Boeing 737-800 (winglets) Passenger/BBJ2,False,False
+OD2108,Boeing 737MAX 8 Passenger,False,False
+QZ265,Airbus A320,False,False
+SQ606,Airbus A350-900,False,True
+AK522,Airbus A320,False,False
+CI722,Boeing 777-300ER,False,True
+MH2664,Boeing 737-800 (winglets) Passenger/BBJ2,False,False
+3K535,Airbus A320,False,False
+AK710,Airbus A320,False,False
+QH308,Airbus A321,False,False
+PG433,None,None,None
+OD348,Boeing 737MAX 8 Passenger,False,False
+SQ113,Boeing 737-800 (winglets) Passenger/BBJ2,False,False
+ID7156,Boeing 737-800 (winglets) Passenger/BBJ2,False,False
+TR688,None,None,None
+TG435,Boeing 787-8,False,True
+VZ106,Airbus A321,False,False
+VZ338,None,None,None
+PG151,Airbus A319,False,False
+VN604,Airbus A321,False,False
+AK5870,Airbus A320,False,False
+MF848,None,None,None
+CI754,Airbus A350-900,False,True
+PR508,Airbus A330-300,False,True
+ET608,Boeing 787-8,False,True
+MF834,None,None,None
+MH789,Boeing 737-800 (winglets) Passenger/BBJ2,False,False
+MH2616,Boeing 737-800 (winglets) Passenger/BBJ2,False,False
+NH886,Boeing 787-8,False,True
+ID7146,Boeing 737-800 (winglets) Passenger/BBJ2,False,False
+VZ621,Airbus A321,False,False
+GA867,Boeing 737-800 (winglets) Passenger/BBJ2,False,False
+WE44,Airbus A320 (sharklets),False,False
+CX2690,None,None,None
+SQ622,Boeing 787-10,False,True
+SQ634,Boeing 777-300ER,False,True
+SQ916,Airbus A350-900,False,True
+CI832,Airbus A350-900,False,True
+QV442,Airbus A320,False,False
+WE112,None,None,None
+G838,Airbus A320 (sharklets),False,False
+VJ804,Airbus A321,False,False
+SQ332,Airbus A350-900,False,True
+TG624,Boeing 777-300ER,False,True
+VZ132,Airbus A320 (sharklets),False,False
+WE215,Airbus A320 (sharklets),False,False
+AK278,Airbus A320,False,False
+AK6316,Airbus A320,False,False
+ID7283,Boeing 737-800 (winglets) Passenger/BBJ2,False,False
+MH1148,Boeing 737-800 (winglets) Passenger/BBJ2,False,False
+QZ203,Airbus A320,False,False
+GF165,Boeing 787-9,False,True
+SQ184,Airbus A350-900,False,True
+PR731,Airbus A321,False,False
+AK6228,Airbus A320,False,False
+8M232,Airbus A320,False,False
+AK1722,Airbus A320,False,False
+Z2826,None,None,None
+BS218,Boeing 737-800 (winglets) Passenger/BBJ2,False,False
+EK384,Airbus A380-800 Passenger,False,True
+PG145,ATR 72,True,False
+MH2536,Boeing 737-800 (winglets) Passenger/BBJ2,False,False
+MH606,Boeing 737-800 (winglets) Passenger/BBJ2,False,False
+TR992,Airbus A321neo,False,False
+VZ2300,Airbus A320,False,False
+AK5104,Airbus A320,False,False
+FD411,None,None,None
+MH721,Boeing 737-800 (winglets) Passenger/BBJ2,False,False
+PR739,Airbus A321,False,False
+SU273,Boeing 777-300ER,False,True
+AK384,Airbus A320,False,False
+VJ826,Airbus A321,False,False
+AK5210,Airbus A320,False,False
+CX614,None,None,None
+8M502,Airbus A320,False,False
+AK868,Airbus A320,False,False
+OD2206,Boeing 737MAX 8 Passenger,False,False
+SV831,Boeing 787-9,False,True
+PG933,Airbus A319,False,False
+VZ110,Airbus A320,False,False
+VZ204,Airbus A320,False,False
+TR634,Airbus A320,False,False
+VN660,Airbus A321,False,False
+VJ904,Airbus A321neo,False,False
+LX181,Boeing 777-300ER,False,True
+TG916,Boeing 777-300ER,False,True
+VN650,Airbus A321,False,False
+BR226,Boeing 777-300ER,False,True
+AK884,Airbus A320,False,False
+VZ626,None,None,None
+MH1436,Boeing 737-800 (winglets) Passenger/BBJ2,False,False
+SQ710,Boeing 787-10,False,True
+SQ894,None,None,None
+TR306,Airbus A320,False,False
+VJ812,Airbus A321,False,False
+MH623,Boeing 737-800 (winglets) Passenger/BBJ2,False,False
+TG416,Boeing 787-8,False,True
+59999999999999996395855892718367073181509239082549374496860282078218155982848,None,None,None
+BR67,Boeing 777-300ER,False,True
+ID7130,Boeing 737-800 (winglets) Passenger/BBJ2,False,False
+UB2,Boeing 737-800 (winglets) Passenger/BBJ2,False,False
+AK713,Airbus A320,False,False
+JT169,Boeing 737-800 (winglets) Passenger/BBJ2,False,False
+WE209,None,None,None
+3K593,Airbus A320,False,False
+3K685,Airbus A320,False,False
+AK5644,Airbus A320,False,False
+BR218,Boeing 777-300ER,False,True
+OD680,None,None,None
+ZH9004,Airbus A330,False,True
+MH642,Boeing 737-800 (winglets) Passenger/BBJ2,False,False
+SQ114,Boeing 737-800 (winglets) Passenger/BBJ2,False,False
+SQ906,Boeing 737MAX 8 Passenger,False,False
+AK5748,Airbus A320,False,False
+GA821,Boeing 737-800 (winglets) Passenger/BBJ2,False,False
+MK647,Airbus A330-900neo,False,True
+TG407,None,None,None
+WE291,Airbus A320 (sharklets),False,False
+SQ318,Boeing 777-300ER,False,True
+AK856,Airbus A320,False,False
+MH704,Boeing 737-800 (winglets) Passenger/BBJ2,False,False
+8M338,Airbus A319,False,False
+PG273,Airbus A320,False,False
+TR604,Airbus A321neo,False,False
+MH2614,Boeing 737-800 (winglets) Passenger/BBJ2,False,False
+AK538,Airbus A320,False,False
+PG205,None,None,None
+TG922,Boeing 777-300ER,False,True
+SQ148,Boeing 737MAX 8 Passenger,False,False
+SQ24,Airbus A350-900,False,True
+AK711,Airbus A320,False,False
+G826,Airbus A320 (sharklets),False,False
+SQ958,Airbus A350-900,False,True
+OD131,Boeing 737MAX 8 Passenger,False,False
+LQ671,Airbus A320,False,False
+VZ970,None,None,None
+WE263,Airbus A320 (sharklets),False,False
+WE4,Airbus A320,False,False
+TG404,Airbus A350-900,False,True
+AK824,Airbus A320,False,False
+MH851,Boeing 737-800 (winglets) Passenger/BBJ2,False,False
+AK882,Airbus A320,False,False
+9C7492,None,None,None
+PG225,None,None,None
+WE132,Airbus A320 (sharklets),False,False
+LJ6,None,None,None
+OD804,Boeing 737-800 Passenger,False,False
+SL101,Boeing 737-800 (winglets) Passenger/BBJ2,False,False
+TR896,Boeing 787-9,False,True
+VN676,Airbus A321,False,False
+FD4110,Airbus A320,False,False
+VN610,Airbus A321,False,False
+WE327,None,None,None
+QZ505,Airbus A320,False,False
+AK1758,Airbus A320,False,False
+AK5106,None,None,None
+MH788,Boeing 737-800 (winglets) Passenger/BBJ2,False,False
+AK706,Airbus A320,False,False
+SQ912,Airbus A350-900,False,True
+TR656,Airbus A320,False,False
+AK6304,Airbus A320,False,False
+BI872,Airbus A320neo,False,False
+BR212,Boeing 777-300ER,False,True
+AK512,Airbus A320,False,False
+AK6436,Airbus A320,False,False
+SQ707,Boeing 787-10,False,True
+SQ156,Boeing 737MAX 8 Passenger,False,False
+OD540,Boeing 737MAX 8 Passenger,False,False
+PG135,Airbus A319,False,False
+QH326,Airbus A320,False,False
+TR607,None,None,None
+WE688,Airbus A320,False,False
+3K247,Airbus A320,False,False
+GA843,Boeing 737-800 (winglets) Passenger/BBJ2,False,False
+QZ267,Airbus A320,False,False
+UK112,Airbus A321neo,False,False
+MH603,Boeing 737-800 (winglets) Passenger/BBJ2,False,False
+PR526,Airbus A321,False,False
+AK1720,Airbus A320,False,False
+AK1776,Airbus A320,False,False
+AK1794,Airbus A320,False,False
+MH1438,Boeing 737-800 (winglets) Passenger/BBJ2,False,False
+VJ802,Airbus A321,False,False
+AK1310,Airbus A320,False,False
+AK5172,Airbus A320,False,False
+CX750,Airbus A350-1000,False,True
+PG305,ATR 72,True,False
+KR752,Airbus A319,False,False
+AK5206,Airbus A320,False,False
+TG413,Boeing 777-200 / 200ER,False,True
+WE207,None,None,None
+ID7154,Boeing 737-800 (winglets) Passenger/BBJ2,False,False
+SQ878,Boeing 787-10,False,True
+HB682,Boeing 737-800 (winglets) Passenger/BBJ2,False,False
+S76382,None,None,None
+WE570,Airbus A320 (sharklets),False,False
+QZ659,Airbus A320,False,False
+PG905,ATR 72,True,False
+VN600,Airbus A321neo,False,False
+VZ116,None,None,None
+VJ970,Airbus A321,False,False
+MH2646,Boeing 737-800 (winglets) Passenger/BBJ2,False,False
+5J930,Airbus A321neo,False,False
+PG1133,None,None,None
+VZ940,None,None,None
+AK5872,Airbus A320,False,False
+TR453,Airbus A321neo,False,False
+KR702,Airbus A320,False,False
+VZ324,Airbus A320,False,False
+MH614,Boeing 737-800 (winglets) Passenger/BBJ2,False,False
+SQ107,Boeing 737-800 (winglets) Passenger/BBJ2,False,False
+MH785,Boeing 737-800 (winglets) Passenger/BBJ2,False,False
+SQ217,Airbus A350-900,False,True
+59999999999999999593256920461697678587702506516643840,None,None,None
+FD358,Airbus A320,False,False
+AK571,None,None,None
+MH1140,Boeing 737-800 (winglets) Passenger/BBJ2,False,False
+PG947,Airbus A319,False,False
+WE203,Airbus A320 (sharklets),False,False
+QR943,Airbus A350-900,False,True
+SQ326,Airbus A350-900,False,True
+MH2520,Boeing 737-800 (winglets) Passenger/BBJ2,False,False
+CI834,Airbus A350-900,False,True
+FD4104,Airbus A320,False,False
+TG321,Airbus A330-300,False,True
+KE648,Airbus A330-300,False,True
+NH842,Boeing 787-9,False,True
+AK6308,Airbus A320,False,False
+VZ960,Airbus A320,False,False
+AK733,Airbus A320,False,False
+OD802,Boeing 737MAX 8 Passenger,False,False
+AK6112,Airbus A320,False,False
+AK5232,Airbus A320,False,False
+UO705,Airbus A320,False,False
+XJ606,None,None,None
+QZ503,Airbus A320,False,False
+AY146,None,None,None
+PR502,Airbus A321,False,False
+AK391,Airbus A320,False,False
+IX687,Boeing 737-800 (winglets) Passenger/BBJ2,False,False
+MH604,Boeing 737-800 (winglets) Passenger/BBJ2,False,False
+SQ211,Boeing 777-300ER,False,True
+TR284,Airbus A321neo,False,False
+TR360,Airbus A320,False,False
+UK106,Airbus A321neo,False,False
+AK707,Airbus A320,False,False
+OD502,Boeing 737MAX 8 Passenger,False,False
+OD803,Boeing 737-800 Passenger,False,False
+VZ220,Airbus A321,False,False
+AK204,Airbus A320,False,False
+OD184,Boeing 737MAX 8 Passenger,False,False
+OD316,Boeing 737-800 (winglets) Passenger/BBJ2,False,False
+SQ105,Airbus A350-900,False,True
+WE42,Airbus A320 (sharklets),False,False
+QZ263,Airbus A320,False,False
+SQ440,None,None,None
+AK376,Airbus A320,False,False
+QZ551,Airbus A320,False,False
+MH2710,Boeing 737-800 (winglets) Passenger/BBJ2,False,False
+PG223,Airbus A319,False,False
+QV634,ATR 72,True,False
+UB20,Boeing 737-800 (winglets) Passenger/BBJ2,False,False
+VZ304,Airbus A320,False,False
+5J814,Airbus A321neo,False,False
+TR438,None,None,None
+UA2,Boeing 787-9,False,True
+EK345,Boeing 777-300ER,False,True
+FD312,Airbus A320,False,False
+8M336,Airbus A320,False,False
+PG129,Airbus A319,False,False
+WE319,Airbus A320 (sharklets),False,False
+EK349,None,None,None
+OD173,Boeing 737MAX 8 Passenger,False,False
+WE104,Airbus A320,False,False
+SQ432,Boeing 737MAX 8 Passenger,False,False
+AK6432,Airbus A320,False,False
+AK648,Airbus A320,False,False
+ID7289,Boeing 737-800 (winglets) Passenger/BBJ2,False,False
+OD520,Boeing 737MAX 8 Passenger,False,False
+KC932,Airbus A321neo,False,False
+VZ562,Airbus A320,False,False
+AK704,Airbus A320,False,False
+OD2204,None,None,None
+FD410,None,None,None
+PG131,None,None,None
+PG275,Airbus A319,False,False
+SQ245,Airbus A350-900,False,True
+AK6224,Airbus A320,False,False
+JL32,Boeing 787-9,False,True
+ID7152,Boeing 737-800 (winglets) Passenger/BBJ2,False,False
+SQ178,Airbus A350-900,False,True
+SQ728,Boeing 737-800 (winglets) Passenger/BBJ2,False,False
+TR276,Airbus A320,False,False
+MH129,Airbus A330-300,False,True
+TR24,Boeing 787-9,False,True
+VZ350,Airbus A320,False,False
+VZ980,Airbus A320,False,False
+QG523,Airbus A320,False,False
+WY822,Airbus A330-200,False,True
+QZ125,Airbus A320,False,False
+VZ620,Airbus A321,False,False
+KE660,Boeing 777-300ER,False,True
+VZ370,Airbus A320,False,False
+WE301,Airbus A320,False,False
+SQ708,Boeing 787-10,False,True
+MH2610,Boeing 737-800 (winglets) Passenger/BBJ2,False,False
+AK5746,Airbus A320,False,False
+SQ223,Airbus A350-900,False,True
+SQ956,Airbus A350-900,False,True
+UK116,Airbus A321neo,False,False
+TR606,None,None,None
+QR845,Boeing 777-300ER,False,True
+EK375,Airbus A380-800 Passenger,False,True
+TR609,Airbus A321neo,False,False
+WE285,Airbus A320 (sharklets),False,False
+MH1051,Boeing 737-800 (winglets) Passenger/BBJ2,False,False
+MH752,Boeing 737-800 (winglets) Passenger/BBJ2,False,False
+PG941,ATR 72,True,False
+AK6306,Airbus A320,False,False
+MH141,Airbus A330-300,False,True
+MH170,Boeing 737-800 (winglets) Passenger/BBJ2,False,False
+SQ12,Boeing 777-300ER,False,True
+TR216,Airbus A320,False,False
+SQ108,Boeing 737-800 (winglets) Passenger/BBJ2,False,False
+SQ32,Airbus A350-900,False,True
+MH366,Boeing 737-800 (winglets) Passenger/BBJ2,False,False
+3K512,Airbus A320,False,False
+PG711,Airbus A319,False,False
+MH102,Boeing 737-800 (winglets) Passenger/BBJ2,False,False
+SQ172,Boeing 737MAX 8 Passenger,False,False
+SQ192,Airbus A350-900,False,True
+SQ910,Airbus A350-900,False,True
+WY818,Boeing 787-9,False,True
+AK5136,Airbus A320,False,False
+TR658,Airbus A321neo,False,False
+TR452,Airbus A321neo,False,False
+PG261,Airbus A319,False,False
+AK5204,Airbus A320,False,False
+MH611,Boeing 737-800 (winglets) Passenger/BBJ2,False,False
+D7798,Airbus A330-300,False,True
+OD306,Boeing 737-800 (winglets) Passenger/BBJ2,False,False
+MH740,Boeing 737-800 (winglets) Passenger/BBJ2,False,False
+MH786,Boeing 737-800 (winglets) Passenger/BBJ2,False,False
+MH182,Boeing 737-800 (winglets) Passenger/BBJ2,False,False
+MH125,Boeing 737-800 (winglets) Passenger/BBJ2,False,False
+SQ508,Boeing 737MAX 8 Passenger,False,False
+SQ938,Boeing 787-10,False,True
+WE251,Airbus A320 (sharklets),False,False
+QZ321,Airbus A320,False,False
+3K684,Airbus A320,False,False
+MH1138,Boeing 737-800 (winglets) Passenger/BBJ2,False,False
+MH4,Airbus A350-900,False,True
+MH174,Boeing 737-800 (winglets) Passenger/BBJ2,False,False
+SQ308,Airbus A380-800 Passenger,False,True
+PG119,Airbus A319,False,False
+MH754,Boeing 737-800 (winglets) Passenger/BBJ2,False,False
+MH1432,Boeing 737-800 (winglets) Passenger/BBJ2,False,False
+MH784,Boeing 737-800 (winglets) Passenger/BBJ2,False,False
+MH711,Boeing 737-800 (winglets) Passenger/BBJ2,False,False
+MH715,Airbus A330-300,False,True
+AK702,Airbus A320,False,False
+TR676,Airbus A321neo,False,False
+MH72,Boeing 737-800 (winglets) Passenger/BBJ2,False,False
+MH2574,Boeing 737-800 (winglets) Passenger/BBJ2,False,False
+SQ103,Boeing 737-800 (winglets) Passenger/BBJ2,False,False
+MH172,Boeing 737-800 (winglets) Passenger/BBJ2,False,False
+MH750,Boeing 737-800 (winglets) Passenger/BBJ2,False,False
+AI347,Airbus A320neo,False,False
+AI333,Boeing 787-8,False,True
+PG931,Airbus A319,False,False
+TG431,Boeing 777-200 / 200ER,False,True
+TG415,Boeing 787-8,False,True
+WE576,None,None,None
+QZ201,Airbus A320,False,False
+TR474,Airbus A320neo,False,False
+SQ164,Boeing 737MAX 8 Passenger,False,False
+UL403,Airbus A320,False,False
+OD801,Boeing 737MAX 8 Passenger,False,False
+VZ720,Airbus A320,False,False
+AC66,None,None,None
+OD151,Boeing 737MAX 8 Passenger,False,False
+TR818,Boeing 787-8,False,True
+SQ726,Boeing 737-800 (winglets) Passenger/BBJ2,False,False
+SQ203,Boeing 737MAX 8 Passenger,False,False
+SQ106,Airbus A350-900,False,True
+TG475,Boeing 777-300ER,False,True
+MH860,Boeing 737-800 (winglets) Passenger/BBJ2,False,False
+OD2102,None,None,None
+MH806,Boeing 737-800 (winglets) Passenger/BBJ2,False,False
+SQ882,None,None,None
+PG125,Airbus A319,False,False
+MH2608,Boeing 737-800 (winglets) Passenger/BBJ2,False,False
+AK705,Airbus A320,False,False
+MH2742,Boeing 737-800 (winglets) Passenger/BBJ2,False,False
+MH2716,Boeing 737-800 (winglets) Passenger/BBJ2,False,False
+MH2612,Boeing 737-800 (winglets) Passenger/BBJ2,False,False
+JL712,Boeing 767-300 (winglets) Passenger,False,True
+SQ936,Boeing 787-10,False,True
+TR384,Airbus A321neo,False,False
+AI381,Boeing 787-8,False,True
+PG203,ATR 72,True,False
+TG433,Boeing 787-8,False,True
+TG461,Airbus A350-900,False,True
+AK6114,None,None,None
+TR274,Airbus A320neo,False,False
+TG632,Boeing 777-300ER,False,True
+AK6051,Airbus A320,False,False
+OD1632,Boeing 737MAX 8 Passenger,False,False
+AK582,Airbus A320,False,False
+WE130,Airbus A320 (sharklets),False,False
+PG123,Airbus A319,False,False
+FD8046,None,None,None
+SQ600,Airbus A350-900,False,True
+PG271,Airbus A320,False,False
+AY142,Airbus A350-900,False,True
+JL708,Boeing 787-8,False,True
+QR831,Boeing 777-300ER,False,True
+NH816,Boeing 787-9,False,True
+OD1002,Boeing 737MAX 8 Passenger,False,False
+TR300,Airbus A320neo,False,False
+TR426,Airbus A320neo,False,False
+TG403,Airbus A350-900,False,True
+TG600,Boeing 777-300ER,False,True
+TG676,Boeing 777-300ER,False,True
+WE201,Airbus A320 (sharklets),False,False
+FD4124,Airbus A320,False,False
+PG215,Airbus A320,False,False
+TG652,Boeing 787-9,False,True
+SQ762,Boeing 737MAX 8 Passenger,False,False
+AK5192,None,None,None
+AK520,Airbus A320,False,False
+MH601,Boeing 737-800 (winglets) Passenger/BBJ2,False,False
+SQ132,Boeing 737MAX 8 Passenger,False,False
+SQ922,Airbus A350-900,False,True
+SQ207,Boeing 777-300ER,False,True
+SQ422,Airbus A350-900,False,True
+TG620,Boeing 787-8,False,True
+WE588,None,None,None
+AK25,Airbus A320,False,False
+AK427,Airbus A320,False,False
+AK822,Airbus A320,False,False
+SQ154,Boeing 737MAX 8 Passenger,False,False
+TR264,None,None,None
+WE560,Airbus A320 (sharklets),False,False
+WE289,Airbus A320,False,False
+WE550,Airbus A320 (sharklets),False,False
+AK5134,Airbus A320,False,False
+MH2542,Boeing 737-800 (winglets) Passenger/BBJ2,False,False
+AK700,Airbus A320,False,False
+VZ114,Airbus A321,False,False
+WE241,Airbus A320 (sharklets),False,False
+MH2660,Boeing 737-800 (winglets) Passenger/BBJ2,False,False
+3K201,Airbus A320,False,False
+PG121,Airbus A319,False,False
+VZ964,Airbus A320,False,False
+WE586,Airbus A320 (sharklets),False,False
+AK880,Airbus A320,False,False
+MH713,None,None,None
+TR304,Airbus A320,False,False
+WE102,Airbus A320,False,False
+MH871,Boeing 737-800 (winglets) Passenger/BBJ2,False,False
+AK5878,Airbus A320,False,False
+3K683,Airbus A320,False,False
+TR280,Boeing 787-8,False,True
+TR480,Airbus A320,False,False
+VZ340,Airbus A320,False,False
+FD4100,Airbus A320,False,False
+AK6326,None,None,None
+SV843,None,None,None
+SQ104,Boeing 737-800 (winglets) Passenger/BBJ2,False,False
+VZ320,Airbus A320,False,False
+NH806,Boeing 787-10,False,True
+AK703,Airbus A320,False,False
+SQ241,Airbus A350-900,False,True
+VZ200,Airbus A320,False,False
+VZ210,Airbus A321,False,False
+PG211,ATR 72,True,False
+TG323,Boeing 777-200 / 200ER,False,True
+VZ314,Airbus A320,False,False
+WE20,Airbus A320 (sharklets),False,False
+WE40,Airbus A320 (sharklets),False,False
+AK6020,Airbus A320,False,False
+MH1204,Boeing 737-800 (winglets) Passenger/BBJ2,False,False
+3K511,Airbus A320,False,False
+SQ524,Boeing 737MAX 8 Passenger,False,False
+AK380,Airbus A320,False,False
+AK6430,Airbus A320,False,False
+3K243,None,None,None
+SQ934,Boeing 737MAX 8 Passenger,False,False
+TR608,Airbus A321neo,False,False
+WE2,Airbus A320 (sharklets),False,False
+AK890,Airbus A320,False,False
+SQ950,Boeing 777-300ER,False,True
+AK5202,Airbus A320,False,False
+AK5246,Airbus A320,False,False
+599999999999999981180196647507853312,None,None,None
+WE259,Airbus A320 (sharklets),False,False
+AK6144,Airbus A320,False,False
+B3701,Airbus A319,False,False
+PG101,Airbus A319,False,False
+VZ130,Airbus A320,False,False
+WE100,None,None,None
+AK272,Airbus A320,False,False
+VZ300,None,None,None
+AK5108,Airbus A320,False,False
+AK5651,Airbus A320,False,False
+AK5744,Airbus A320,False,False
+3K761,Airbus A320,False,False
+VZ100,Airbus A320,False,False
+AK11,Airbus A320,False,False
+AK516,Airbus A320,False,False
+TR978,None,None,None
+FD4402,Airbus A320,False,False
+PG431,None,None,None
+AK701,Airbus A320,False,False
+MH602,Boeing 737-800 (winglets) Passenger/BBJ2,False,False
+QR890,Boeing 777-200LR,False,True
+RA416,Airbus A320,False,False
+60000000000000004991496389295465462970677278814214746537984,None,None,None
+BS308,Boeing 737-800 (winglets) Passenger/BBJ2,False,False
+SG84,Boeing 737 Passenger,False,False
+TR812,Airbus A321neo,False,False
+6E1818,None,None,None
+6000000000000000578799285889800569438076928,None,None,None
+SG88,Boeing 737 Passenger,False,False
+H9873,Airbus A320,False,False
+KU414,Boeing 777-300ER,False,True
+5J932,Airbus A321neo,False,False
+XJ700,Airbus A330-300,False,True
+TR842,Boeing 787-8,False,True
+5999999999999999639585589271836707318150923908254937449686028207821815598284800,None,None,None
+BR61,Boeing 787-10,False,True
+5999999999999999789184508585700536127082946935780278272,None,None,None
+TW106,Boeing 737 Passenger,False,False
+BG387,Boeing 787-8,False,True
+TW172,Airbus A330,False,True
+7C2206,Boeing 737-800 (winglets) Passenger/BBJ2,False,False
+MH164,Airbus A330-300,False,True
+SQ402,Boeing 787-10,False,True
+D7236,Airbus A330-300,False,True
+SV841,Boeing 787-9,False,True
+3K779,Airbus A320,False,False
+SQ52,Airbus A350-900,False,True
+SQ366,Airbus A350-900,False,True
+SQ392,Airbus A350-900,False,True
+EK377,Airbus A380-800 Passenger,False,True
+HX780,Airbus A330-300,False,True
+CI756,Airbus A330-300,False,True
+QR945,Airbus A350-1000,False,True
+TR2,Boeing 787-9,False,True
+TR890,None,None,None
+QR837,Boeing 777-300ER,False,True
+EK343,Airbus A380-800 Passenger,False,True
+ET629,Boeing 787-9,False,True
+5J502,Airbus A321neo,False,False
+KL836,Boeing 777-300ER,False,True
+KE646,Boeing 777-300ER,False,True
+SQ346,Boeing 777-300ER,False,True
+SQ478,Airbus A350-900,False,True
+SQ618,Boeing 787-10,False,True
+TR14,None,None,None
+TW102,Airbus A330,False,True
+TR396,Airbus A320neo,False,False
+VZ810,Airbus A321,False,False
+SQ672,Boeing 787-10,False,True
+XJ612,Airbus A330-300,False,True
+5J548,Airbus A320,False,False
+7C2252,Boeing 737-800 (winglets) Passenger/BBJ2,False,False
+MM92,Airbus A321neo,False,False
+5J804,Airbus A320,False,False
+SQ306,Boeing 777-300ER,False,True
+SQ918,Boeing 787-10,False,True
+TR734,Boeing 787-8,False,True
+EK385,Airbus A380-800 Passenger,False,True
+7C2204,Boeing 737-800 (winglets) Passenger/BBJ2,False,False
+TG648,Airbus A330-300,False,True
+TR898,Boeing 787-9,False,True
+JL718,None,None,None
+SQ255,Airbus A350-900,False,True
+LJ12,Boeing 737-800 (winglets) Passenger/BBJ2,False,False
+OZ742,Airbus A380-800 Passenger,False,True
+TG924,Airbus A350-900,False,True
+SQ231,Airbus A380-800 Passenger,False,True
+KL844,None,None,None
+7C4056,Boeing 737-800 (winglets) Passenger/BBJ2,False,False
+SQ22,Airbus A350-900,False,True
+TR18,Boeing 787-9,False,True
+TG970,Boeing 777-300ER,False,True
+KL804,None,None,None
+TG950,Boeing 777-300ER,False,True
+XJ382,Airbus A330-300,False,True
+XJ600,Airbus A330-300,False,True
+EK353,Airbus A380-800 Passenger,False,True
+TG960,Airbus A350-900,False,True
+SQ225,Boeing 787-10,False,True
+SQ237,Boeing 777-300ER,False,True
+SQ328,Airbus A350-900,False,True
+RJ183,Boeing 787,False,True
+SQ352,Airbus A350-900,False,True
+PR510,Airbus A321,False,False
+TG910,Boeing 777-300ER,False,True
+SQ336,Boeing 777-300ER,False,True
+SQ608,Boeing 787-10,False,True
+TG644,Airbus A350-900,False,True
+TG930,Boeing 777-300ER,False,True
+AK79,Airbus A320,False,False
+LX177,Boeing 777-300ER,False,True
+TG622,Boeing 777-300ER,False,True
+EK363,Airbus A380-800 Passenger,False,True
+KE652,Boeing 777-300ER,False,True
+LY82,Boeing 777-200 / 200ER,False,True
+TG642,Boeing 777-300ER,False,True
+TG670,Boeing 787-8,False,True
+KE672,Airbus A330-200,False,True
+MH2,Airbus A350-900,False,True
+LH779,Boeing 747-8 Passenger,False,True
+LH791,Airbus A350-900,False,True
+QF1,Airbus A380-800 Passenger,False,True
+SQ26,Airbus A380-800 Passenger,False,True
+SQ324,Airbus A350-900,False,True
+SQ638,Boeing 787-10,False,True
+D7550,None,None,None
+TK61,Boeing 777-300ER,False,True
+ZG52,Boeing 787-8,False,True
+MH66,Airbus A330-300,False,True
+SQ322,Airbus A380-800 Passenger,False,True
+SQ378,Airbus A350-900,False,True
+TG920,Boeing 777-300ER,False,True
+TW178,None,None,None
+QZ207,None,None,None
+AK722,Airbus A320,False,False
+SQ279,Airbus A350-900,False,True
+LH773,Airbus A350-900,False,True
+TG313,Boeing 777-200 / 200ER,False,True
+MH123,Airbus A330-300,False,True
+MH88,Airbus A350-900,False,True
+TK55,Boeing 777-300ER,False,True
+SV847,Boeing 787-10,False,True
+TG656,Airbus A350-900,False,True
+TK69,Airbus A330-300,False,True
+TG331,Airbus A330-300,False,True
+PR733,Airbus A321,False,False
+MH609,Boeing 737-800 (winglets) Passenger/BBJ2,False,False
+QZ123,Airbus A320,False,False
+MH1194,None,None,None
+TG339,Boeing 787-8,False,True
+TG682,Boeing 787-9,False,True
+TK63,Boeing 777-300ER,False,True
+BA12,Boeing 787-9,False,True
+OZ752,Airbus A350-900,False,True
+TG658,Airbus A350-900,False,True
+D7288,Airbus A330-300,False,True
+AF257,Boeing 777-300ER,False,True
+BA16,Boeing 777-300ER,False,True
+AK6034,Airbus A320,False,False
+D7504,Airbus A330-300,False,True
+MH7041,None,None,None
+AI383,Airbus A320neo,False,False
+BX726,Airbus A321neo,False,False
+TK65,Airbus A330-300,False,True
+NH850,Boeing 787-9,False,True
+JL724,Boeing 787-8,False,True
+TR566,Airbus A321neo,False,False
+AK63,Airbus A320,False,False
+FD352,Airbus A320,False,False
+SQ636,Boeing 777-300ER,False,True
+MH52,Airbus A330-300,False,True
+SQ968,Boeing 777-300ER,False,True
+MH135,None,None,None
+AK720,Airbus A320,False,False
+AY132,Airbus A350-900,False,True
+KE644,Boeing 777-300,False,True
+BX748,Airbus A321neo,False,False
+LJ4,None,None,None
+TG337,Boeing 787-8,False,True
+AK29,Airbus A320,False,False
+JL36,Boeing 787-9,False,True
+SQ285,Airbus A350-900,False,True
+SQ536,Boeing 737MAX 8 Passenger,False,False
+MH149,Airbus A330-300,False,True
+MH139,Airbus A330-300,False,True
+NH844,Boeing 787-9,False,True
+SQ526,Airbus A350-900,False,True
+UA28,Boeing 787-9,False,True
+TR808,Boeing 787-9,False,True
+TG329,Boeing 787-8,False,True
+OD162,Boeing 737MAX 8 Passenger,False,False
+JQ8,Boeing 787-8,False,True
+OZ754,Airbus A330-300,False,True
+SQ468,Boeing 787-10,False,True
+TR574,Airbus A320,False,False
+JL34,Boeing 787-9,False,True
+WE343,Airbus A320,False,False
+OD231,Boeing 737-800 (winglets) Passenger/BBJ2,False,False
+AK723,Airbus A320,False,False
+HX766,Airbus A320,False,False
+MH108,Boeing 737-800 (winglets) Passenger/BBJ2,False,False
+5J716,Airbus A320,False,False
+QZ269,Airbus A320,False,False
+AK5234,Airbus A320,False,False
+SQ227,Airbus A350-900,False,True
+IX689,None,None,None
+VZ2104,Airbus A320,False,False
+MH180,Boeing 737-800 (winglets) Passenger/BBJ2,False,False
+MH192,Boeing 737-800 (winglets) Passenger/BBJ2,False,False
+TG325,Airbus A350-900,False,True
+VZ316,Airbus A320,False,False
+SQ235,Airbus A350-900,False,True
+OD806,Boeing 737MAX 8 Passenger,False,False
+JQ30,Boeing 787-8,False,True
+OD175,None,None,None
+MH198,Boeing 737-800 (winglets) Passenger/BBJ2,False,False
+FD320,Airbus A320,False,False
+3K688,Airbus A320,False,False
+BI424,Boeing 787-8,False,True
+TR564,Airbus A321neo,False,False
+3K514,Airbus A320,False,False
+TR467,Airbus A320,False,False
+AK69,Airbus A320,False,False
+AK5116,Airbus A320,False,False
+MH610,Boeing 737-800 (winglets) Passenger/BBJ2,False,False
+MH2532,Boeing 737-800 (winglets) Passenger/BBJ2,False,False
+AK6128,Airbus A320,False,False
+SQ7410,Boeing 777-200F Freighter,False,True
+QZ509,Airbus A320,False,False
+MH160,Airbus A330-300,False,True
+AK13,Airbus A320,False,False
+KE658,Boeing 777-300,False,True
+WY824,Airbus A330-300,False,True
+AK39,Airbus A320,False,False
+TG418,Boeing 777-200 / 200ER,False,True
+TG410,Airbus A350-900,False,True
+EK355,Airbus A380-800 Passenger,False,True
+AK718,Airbus A320,False,False
+AK71,Airbus A320,False,False
+MH1166,Boeing 737-800 (winglets) Passenger/BBJ2,False,False
+SQ516,Airbus A350-900,False,True
+QZ129,None,None,None
+FD420,Airbus A320,False,False
+AK1730,Airbus A320,False,False
+SG46,Boeing 737MAX 8 Passenger,False,False
+AK6310,None,None,None
+ID8019,None,None,None
+AK721,Airbus A320,False,False
+AK23,Airbus A320,False,False
+ID6019,Boeing 737-800 (winglets) Passenger/BBJ2,False,False
+SQ38,Airbus A350-900,False,True
+VN656,Airbus A321neo,False,False
+VZ118,Airbus A320,False,False
+MH2628,Boeing 737-800 (winglets) Passenger/BBJ2,False,False
+OD241,Boeing 737MAX 8 Passenger,False,False
+MH114,Boeing 737-800 (winglets) Passenger/BBJ2,False,False
+SQ221,Airbus A350-900,False,True
+EK373,Airbus A380-800 Passenger,False,True
+AK584,Airbus A320,False,False
+FD350,Airbus A320,False,False
+SQ438,Airbus A350-900,False,True
+TR530,Airbus A320neo,False,False
+PX393,Boeing 767-300 Passenger,False,True
+UB18,Boeing 737-800 (winglets) Passenger/BBJ2,False,False
+WE341,Airbus A320,False,False
+VZ312,Airbus A320,False,False
+SQ125,Airbus A350-900,False,True
+UL315,Airbus A321neo,False,False
+3K205,Airbus A320,False,False
+QR833,Airbus A380-800 Passenger,False,True
+QR947,Airbus A350-900,False,True
+MH2530,Boeing 737-800 (winglets) Passenger/BBJ2,False,False
+SQ534,Boeing 737MAX 8 Passenger,False,False
+SQ528,Airbus A350-900,False,True
+8M351,Airbus A320,False,False
+FD4116,None,None,None
+AK47,Airbus A320,False,False
+UO781,Airbus A320,False,False
+VZ328,Airbus A320,False,False
+OD166,Boeing 737MAX 8 Passenger,False,False
+OD223,Boeing 737-800 (winglets) Passenger/BBJ2,False,False
+PG962,Airbus A319,False,False
+BA15,Boeing 777-300ER,False,True
+VJ806,Airbus A321,False,False
+WY816,Boeing 787-9,False,True
+PG191,None,None,None
+MH781,Boeing 737-800 (winglets) Passenger/BBJ2,False,False
+SQ510,Airbus A350-900,False,True
+QF82,Airbus A330-200,False,True
+TR617,Airbus A321neo,False,False
+SQ713,Boeing 787-10,False,True
+TG315,Boeing 777-300ER,False,True
+SQ522,Boeing 737MAX 8 Passenger,False,False
+3K687,Airbus A320,False,False
+PG279,Airbus A320,False,False
+VZ2106,Airbus A321,False,False
+VN606,Airbus A321,False,False
+PG193,ATR 72,True,False
+QR841,Airbus A330-300,False,True
+QR835,Boeing 787-8,False,True
+MH2522,Boeing 737-800 (winglets) Passenger/BBJ2,False,False
+TG345,Airbus A350-900,False,True
+VZ308,Airbus A321,False,False
+WE46,Airbus A320 (sharklets),False,False
+MH1252,Boeing 737-800 (winglets) Passenger/BBJ2,False,False
+FD4408,None,None,None
+WE425,Airbus A320 (sharklets),False,False
+8M332,Airbus A320,False,False
+VZ334,Airbus A320,False,False
+CX702,None,None,None
+EY407,None,None,None
+WE120,Airbus A320,False,False
+PG1181,None,None,None
+VN618,Airbus A321,False,False
+VZ344,Airbus A320,False,False
+VZ722,Airbus A320,False,False
+3K591,Airbus A320,False,False
+SV789,None,None,None
+VJ816,None,None,None
+MH775,Boeing 737-800 (winglets) Passenger/BBJ2,False,False
+VZ2304,Airbus A320,False,False
+AK5220,Airbus A320,False,False
+OD205,Boeing 737-800 (winglets) Passenger/BBJ2,False,False
+KU410,Airbus A330-800neo Passenger,False,True
+AK170,Airbus A320,False,False
+MH2746,Boeing 737-800 (winglets) Passenger/BBJ2,False,False
+AK5142,Airbus A320,False,False
+LY84,Boeing 777-200 / 200ER,False,True
+QH304,Airbus A321,False,False
+MH774,Boeing 737-800 (winglets) Passenger/BBJ2,False,False
+MU568,Boeing 777-300ER,False,True
+FM894,None,None,None
+MU9614,None,None,None
+KR704,Airbus A320,False,False
+TR596,Boeing 787-8,False,True
+GF153,Boeing 787-9,False,True
+AK860,Airbus A320,False,False
+AK1774,Airbus A320,False,False
+BR228,Boeing 777-300ER,False,True
+CZ6060,Airbus A320,False,False
+ID8283,None,None,None
+PG1161,None,None,None
+3K675,Airbus A320,False,False
+TR674,Airbus A321neo,False,False
+KL843,None,None,None
+SQ166,Boeing 737MAX 8 Passenger,False,False
+MF870,None,None,None
+SQ926,None,None,None
+D7212,Airbus A330-300,False,True
+ET628,Boeing 787-9,False,True
+OS16,Boeing 777-200 / 200ER,False,True
+CZ8048,None,None,None
+FJ362,Airbus A330-300,False,True
+SQ174,Boeing 737MAX 8 Passenger,False,False
+UL405,Airbus A330-200,False,True
+ID7291,Boeing 737-800 (winglets) Passenger/BBJ2,False,False
+MH376,Boeing 737-800 (winglets) Passenger/BBJ2,False,False
+3K516,Airbus A320,False,False
+PK895,Boeing 777-200 / 200ER,False,True
+OD193,Boeing 737MAX 8 Passenger,False,False
+BR75,Boeing 777-300ER,False,True
+OD271,Boeing 737MAX 8 Passenger,False,False
+GA829,Boeing 737-800 (winglets) Passenger/BBJ2,False,False
+8M504,Airbus A319,False,False
+BR62,Boeing 787-10,False,True
+KU412,Boeing 777-300ER,False,True
+AK526,Airbus A320,False,False
+TR8,Boeing 787-8,False,True
+SU271,None,None,None
+TR350,Airbus A320,False,False
+3K515,Airbus A320,False,False
+AF165,Boeing 787-9,False,True
+AK5882,Airbus A320,False,False
+PG1141,ATR 72,True,False
+BL6854,Airbus A320,False,False
+AK5110,Airbus A320,False,False
+IX683,Boeing 737-800 (winglets) Passenger/BBJ2,False,False
+TR180,Boeing 787-8,False,True
+AK1756,Airbus A320,False,False
+TR484,Airbus A320,False,False
+QZ462,Airbus A320,False,False
+D7378,Airbus A330-300,False,True
+MH152,Airbus A330-200,False,True
+TR490,Airbus A320,False,False
+MH390,None,None,None
+D7234,Airbus A330-300,False,True
+SQ28,Airbus A350-900,False,True
+UU888,Boeing 787-8,False,True
+SQ281,None,None,None
+SQ251,Boeing 737MAX 8 Passenger,False,False
+SG7374,None,None,None
+OD221,Boeing 737-800 (winglets) Passenger/BBJ2,False,False
+AK74,Airbus A320,False,False
+VZ974,None,None,None
+MH133,Airbus A330-200,False,True
+SQ876,Boeing 787-10,False,True
+AK330,Airbus A320,False,False
+MH1384,Boeing 737-800 (winglets) Passenger/BBJ2,False,False
+XJ708,None,None,None
+TR232,Airbus A320,False,False
+SU651,None,None,None
+SQ277,None,None,None
+SQ868,None,None,None
+SQ990,Boeing 737MAX 8 Passenger,False,False
+AK403,Airbus A320,False,False
+MH1326,Boeing 737-800 (winglets) Passenger/BBJ2,False,False
+OD888,None,None,None
+PG1113,None,None,None
+3K555,None,None,None
+AK6320,Airbus A320,False,False
+KB153,Airbus A319,False,False
+SQ48,Airbus A350-900,False,True
+AK542,Airbus A320,False,False
+TR400,None,None,None
+TR4,None,None,None
+TR892,Boeing 787-8,False,True
+D7700,Airbus A330-300,False,True
+TR120,None,None,None
+XJ620,None,None,None
+BS318,None,None,None
+YP632,None,None,None
+JL38,Boeing 767-300 (winglets) Passenger,False,True
+ET609,Boeing 787-8,False,True
+CX714,Airbus A350-900,False,True
+SQ656,Boeing 787-10,False,True
+UL319,Airbus A320,False,False
+ZG54,Boeing 787-8,False,True
+OS26,Boeing 777-200 / 200ER,False,True
+KL810,Boeing 777-200 / 200ER,False,True
+OD191,Boeing 737MAX 8 Passenger,False,False
+AK9722,None,None,None
+SV845,Boeing 787-10,False,True
+TG351,None,None,None
+MH179,Boeing 737-800 (winglets) Passenger/BBJ2,False,False
+MH2626,Boeing 737-800 (winglets) Passenger/BBJ2,False,False
+W550,Airbus A340-300,False,True
+AK9723,None,None,None
+OD281,Boeing 737MAX 8 Passenger,False,False
+IX681,Boeing 737-800 (winglets) Passenger/BBJ2,False,False
+BI874,Airbus A320neo,False,False
+SQ7402,Boeing 777-200F Freighter,False,True
+TR6,Boeing 787-8,False,True
+BI520,Airbus A320neo,False,False
+AK53,Airbus A320,False,False
+TR874,None,None,None
+MH145,Airbus A330-200,False,True
+QV446,Airbus A320,False,False
+TR580,None,None,None
+AI331,Boeing 787-8,False,True
+GA839,None,None,None
+3K537,Airbus A320,False,False
+RA402,Airbus A330-200,False,True
+PR512,Airbus A321,False,False
+UO703,None,None,None
+MH841,Boeing 737-800 (winglets) Passenger/BBJ2,False,False
+SV787,None,None,None
+HB684,Boeing 737-800 (winglets) Passenger/BBJ2,False,False
+3U3936,Airbus A320,False,False
+MH857,Boeing 737-800 (winglets) Passenger/BBJ2,False,False
+CA404,Airbus A320,False,False
+OM704,None,None,None
+UL303,Airbus A330-200,False,True
+MF852,Boeing 737-800 (winglets) Passenger/BBJ2,False,False
+CZ6066,None,None,None
+HO1358,None,None,None
+MH2668,None,None,None
+MH1208,Boeing 737-800 (winglets) Passenger/BBJ2,False,False
+TR902,None,None,None
+BI422,Airbus A320neo,False,False
+BG375,None,None,None
+HY554,Airbus A321neo,False,False
+TG612,Boeing 777-200 / 200ER,False,True
+AF255,Airbus A320,False,False
+SB701,Airbus A330-900neo,False,True
+SU645,None,None,None
+TK209,Boeing 777-300ER,False,True
+VZ102,Airbus A320 (sharklets),False,False
+OV468,None,None,None
+OD7151,None,None,None
+AK138,Airbus A320,False,False
+TR258,Airbus A320,False,False
+D7302,Airbus A330-300,False,True
+SQ846,None,None,None
+3K671,Airbus A320,False,False
+VN686,None,None,None
+TR116,Airbus A321neo,False,False
+SG91,None,None,None
+QR891,Boeing 777-200LR,False,True
+TR138,Boeing 787-8,False,True
+KQ887,None,None,None
+XJ390,Airbus A330-300,False,True
+OD7634,None,None,None
+OD7004,None,None,None
+PG1221,None,None,None
+CZ3040,Airbus A321neo,False,False
+FM864,None,None,None
+VZ136,None,None,None
+MU9612,None,None,None
+AK6302,None,None,None
+MH2544,Boeing 737-800 (winglets) Passenger/BBJ2,False,False
+CZ8344,None,None,None
+MF866,Boeing 737-800 (winglets) Passenger/BBJ2,False,False
+9C6466,Airbus A320,False,False
+SG82,None,None,None
+KQ886,None,None,None
+CX722,Airbus A330-300,False,True
+BI514,Airbus A320neo,False,False
+KB151,None,None,None
+VZ310,Airbus A321,False,False
+KY8370,Boeing 737-800 Passenger,False,False
+SQ842,Airbus A350-900,False,True
+TR20,None,None,None
+VZ302,Airbus A321,False,False
+AK545,Airbus A320,False,False
+KB131,ATR 42-300 / 320,True,False
+TR22,None,None,None
+HO1628,None,None,None
+TR712,Boeing 787-8,False,True
+CI838,Airbus A321neo,False,False
+SQ356,Airbus A350-900,False,True
+SU647,None,None,None
+MH2598,Boeing 737-800 (winglets) Passenger/BBJ2,False,False
+OD7632,None,None,None
+FJ360,Airbus A330-300,False,True
+PG1269,None,None,None
+3K677,None,None,None
+MH78,None,None,None
+TR478,Airbus A320,False,False
+CZ3082,Boeing 737-800 (winglets) Passenger/BBJ2,False,False
+9C7500,Airbus A320,False,False
+MH620,Boeing 737-800 (winglets) Passenger/BBJ2,False,False
+TR308,None,None,None
+OD7326,None,None,None
+MF878,None,None,None
+D7522,Airbus A330-300,False,True
+MH619,Boeing 737-800 (winglets) Passenger/BBJ2,False,False
+TR188,Boeing 787-9,False,True
+MH150,None,None,None
+MH628,Boeing 737-800 (winglets) Passenger/BBJ2,False,False
+MH627,Boeing 737-800 (winglets) Passenger/BBJ2,False,False
+TR174,Airbus A320,False,False
+UA3037,Boeing 737-900 (winglets) Passenger/BBJ3,False,False
+UA3039,Boeing 787-10,False,True
+CA976,Boeing 787-9,False,True
+MH1268,Boeing 737-800 Passenger,False,False
+AK642,Airbus A320,False,False
+TR212,Airbus A320,False,False
+SQ830,Boeing 787-10,False,True
+SQ814,None,None,None
+PG1107,None,None,None
+PR530,Airbus A321,False,False
+ET619,Boeing 787-8,False,True
+KL820,Boeing 777-200 / 200ER,False,True
+SU649,None,None,None
+SL105,Boeing 737-800 (winglets) Passenger/BBJ2,False,False
+TR465,Airbus A320neo,False,False
+SQ512,Airbus A350-900,False,True
+TR464,Airbus A320neo,False,False
+MH2638,Boeing 737-800 (winglets) Passenger/BBJ2,False,False
+FM886,Boeing 787-9,False,True
+CZ6052,None,None,None
+MF874,None,None,None
+CX654,None,None,None
+MU542,Airbus A320,False,False
+PK899,Boeing 777,False,True
+KB541,Airbus A319,False,False
+MH7422,None,None,None
+MH7482,None,None,None
+BS320,None,None,None
+SG7652,None,None,None
+TR100,Airbus A320neo,False,False
+WE313,None,None,None
+AK5648,None,None,None
+AK5120,None,None,None
+AK5216,None,None,None
+AK6118,None,None,None
+OD7006,None,None,None
+QZ555,Airbus A320,False,False
+SQ7412,Boeing 777-200F Freighter,False,True
+LY86,None,None,None
+SQ426,Airbus A350-900,False,True
+AK5196,None,None,None
+ZH9024,Airbus A320,False,False
+VZ120,None,None,None
+3K249,Airbus A320,False,False
+8L802,Boeing 737-600 Passenger,False,False
+AK5740,None,None,None
+MH1152,None,None,None
+OD1004,None,None,None
+FM892,None,None,None
+D7674,None,None,None
+OD1636,None,None,None
+9C7498,None,None,None
+MU2070,Airbus A320,False,False
+3K557,None,None,None
+AK640,Airbus A320,False,False
+VZ216,None,None,None
+TR810,Airbus A321neo,False,False
+WE684,Airbus A320,False,False
+MH7330,None,None,None
+TG668,Airbus A350-900,False,True
+MH7418,None,None,None
+TR457,Airbus A320,False,False
+AK528,Airbus A320,False,False
+SG7656,Boeing 737 Freighter,False,False
+AK6324,None,None,None
+TR456,Airbus A320,False,False
+OD320,Boeing 737MAX 8 Passenger,False,False
+D7664,None,None,None
+TR432,Airbus A320,False,False
+XJ908,None,None,None
+JL728,Boeing 787-8,False,True
+MH7031,None,None,None
+TG335,Boeing 787-8,False,True
+MH1286,None,None,None
+SQ7404,Boeing 777-200F Freighter,False,True
+MH1456,None,None,None
+AK6012,None,None,None
+OD326,None,None,None
+NX995,Airbus A321,False,False
+WE110,Airbus A320 (sharklets),False,False
+SQ802,Airbus A350-900,False,True
+AK5208,Airbus A320,False,False
+OD7328,None,None,None
+KB123,None,None,None
+AK854,Airbus A320,False,False
+MH1426,None,None,None
+D7694,None,None,None
+HB2682,Boeing 737-800 (winglets) Passenger/BBJ2,False,False
+NH848,Boeing 787-9,False,True
+MH1037,Boeing 737-800 (winglets) Passenger/BBJ2,False,False
+GA835,None,None,None
+AK5130,None,None,None
+OD324,None,None,None
+MH766,None,None,None
+WE8770,None,None,None
+MH7428,None,None,None
+KR756,None,None,None
+JQ1008,None,None,None
+AC2066,None,None,None
+BI4426,None,None,None
+BI4424,None,None,None
+OD101,None,None,None
+OD7330,None,None,None
+SQ7408,None,None,None
+D7372,None,None,None
+OD2202,None,None,None
+SQ7406,Boeing 777-200F Freighter,False,True
+MH7426,None,None,None
+MH7362,None,None,None
+OD7238,None,None,None
+AK67,None,None,None
+FM834,Boeing 737-500 (winglets) Passenger,False,False
+MH7320,None,None,None
+MH7360,None,None,None
+WE401,None,None,None
+OS1478,None,None,None
+QV1,None,None,None
+JQ8992,None,None,None
+MH7454,None,None,None
+TR904,Airbus A320neo,False,False
+MH7420,None,None,None
+9C8610,None,None,None
+CZ5246,None,None,None
+MH7486,None,None,None
+MH7424,None,None,None
+MH7480,None,None,None
+AK5226,None,None,None
+RA4166,None,None,None
+NZ6006,None,None,None
+QR8198,None,None,None
+OD1006,None,None,None
+NZ6071,None,None,None
+AK5876,None,None,None
+B3709,None,None,None
+PG1179,None,None,None
+BR202,Boeing 777-300ER,False,True
+Z2943,None,None,None
+OD164,Boeing 737MAX 8 Passenger,False,False
+EK449,Airbus A380-800 Passenger,False,True
+WE1020,None,None,None
+SG7136,Boeing 737 Freighter,False,False
+EK448,Airbus A380-800 Passenger,False,True
+AK540,Airbus A320,False,False
+AK37,None,None,None
+LX7177,None,None,None
+MH388,None,None,None
+SG7376,None,None,None
+UO724,None,None,None
+SG7130,Boeing 737 Freighter,False,False
+MH742,None,None,None
+CZ5252,None,None,None
+NZ6092,None,None,None
+MH7458,None,None,None
+KR722,None,None,None
+MH7324,None,None,None
+MH7322,None,None,None
+AK5174,None,None,None
+CA702,None,None,None
+MH7402,None,None,None
+QZ559,None,None,None
+HU7918,None,None,None
+H98902,None,None,None
+H98912,None,None,None
+NZ6008,None,None,None
+UA3034,Boeing 777-200 / 200ER,False,True
+LQ679,None,None,None
+LQ677,None,None,None
+OD7518,None,None,None
+OD7514,None,None,None
+OD7516,None,None,None
+OD7510,None,None,None
+H92013,None,None,None
+CV5074,Boeing 747-8F Freighter,False,True
+WE8772,None,None,None
